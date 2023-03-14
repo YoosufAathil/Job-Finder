@@ -6,7 +6,7 @@
 
 To get started with "Job Finder," follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/job-finder.git`
+1. Clone the repository: `git clone https://github.com/YoosufAathil/job-finder.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 4. Navigate to `http://localhost:3000` in your web browser to view the site.
