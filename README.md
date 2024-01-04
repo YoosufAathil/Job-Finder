@@ -2,7 +2,7 @@
 
 "Job Finder" is a front-end website built using Vite, React, and Tailwind CSS. The site allows users to search for job openings based on their preferred location and industry.
 
-##🔗 Click here to See the [Preiew](https://yoosufaathil.github.io/Job-Finder/)
+## 🔗 Click here to See the [Preiew](https://yoosufaathil.github.io/Job-Finder/)
 
 ## Getting Started
 
